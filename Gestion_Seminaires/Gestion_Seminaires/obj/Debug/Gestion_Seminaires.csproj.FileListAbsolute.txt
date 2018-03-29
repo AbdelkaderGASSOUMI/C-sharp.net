@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2012\Projects\Gestion_Seminaires\Gestion_Seminaires\bin\Debug\Gestion_Seminaires.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Gestion_Seminaires\Gestion_Seminaires\bin\Debug\Gestion_Seminaires.exe
+c:\users\user\documents\visual studio 2012\Projects\Gestion_Seminaires\Gestion_Seminaires\bin\Debug\Gestion_Seminaires.pdb
+c:\users\user\documents\visual studio 2012\Projects\Gestion_Seminaires\Gestion_Seminaires\obj\Debug\Gestion_Seminaires.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Gestion_Seminaires\Gestion_Seminaires\obj\Debug\Gestion_Seminaires.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Gestion_Seminaires\Gestion_Seminaires\obj\Debug\Gestion_Seminaires.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Gestion_Seminaires\Gestion_Seminaires\obj\Debug\Gestion_Seminaires.exe
+c:\users\user\documents\visual studio 2012\Projects\Gestion_Seminaires\Gestion_Seminaires\obj\Debug\Gestion_Seminaires.pdb
+c:\users\user\documents\visual studio 2012\Projects\Gestion_Seminaires\Gestion_Seminaires\obj\Debug\Gestion_Seminaires.Sem.resources
